@@ -10,6 +10,6 @@ print_r($_SESSION);
 //print_r($POST);
 //print_r($_ENV);
 //print_r($_FILES);
-//print_r($$_COOKIE);
+//print_r($_COOKIE);
 echo "</pre>";
 ?>
